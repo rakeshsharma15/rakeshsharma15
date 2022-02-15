@@ -18,8 +18,8 @@
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-<a href="mailto:lovejot.tech@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-lovejot.tech%40gmail.com-blue?style=flat&logo=gmail"></a>
- <a href="https://www.linkedin.com/in/lovejot-singh-b9997b218/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Lovejot%20Singh-blue?style=flat&logo=linkedin"></a>
+<a href="mailto:rakesh251999@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-rakesh251999@gmail.com-blue?style=flat&logo=gmail"></a>
+ <a href="https://www.linkedin.com/in/rakesh-sharma-34415421b"></a>
 
 
 </p>
@@ -40,5 +40,3 @@
 <br/>
 <br/>
 
-###
-![Lovejot's github stats](https://github-readme-stats.vercel.app/api?username=Lovejotsaini&show_icons=true&theme=radical&bg_color=#ffffff)
