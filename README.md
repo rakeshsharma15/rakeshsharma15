@@ -1,6 +1,6 @@
 
 
-<h2> Hi there 👋, I’m Lovejot Singh!</h2>
+<h2> Hi there 👋, I’m Rakesh Sharma!</h2>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
