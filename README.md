@@ -19,7 +19,7 @@
 
 <p align="center">
 <a href="mailto:rakesh251999@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-rakesh251999@gmail.com-blue?style=flat&logo=gmail"></a>
- <a href="https://www.linkedin.com/in/rakesh-sharma-34415421b"></a>
+ <a href="https://www.linkedin.com/in/rakesh-sharma-34415421b"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Rakesh%20Sharma-blue?style=flat&logo=linkedin"></a>
 
 
 </p>
