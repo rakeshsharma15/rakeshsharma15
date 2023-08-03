@@ -12,7 +12,7 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; JavaScript | ES6 
-- 🌐 &nbsp; HTML | CSS | ReactJS |Redux 
+- 🌐 &nbsp; HTML | CSS | ReactJS | Next js | Node js | Mongodb | Redux 
 - 🔧 &nbsp; Git | Postman | Styled-Component
 
 <h3> 🤝🏻 Connect with Me </h3>
